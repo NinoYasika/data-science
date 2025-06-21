@@ -1,5 +1,5 @@
 Data Science
 - konsisten belajar setiap hari
 - belajar python
-- belajar SQL
 - belajat Git/Github
+- belajar statistika
