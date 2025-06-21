@@ -1,0 +1,4 @@
+Data Science
+  - konsisten belajar setiap hari
+  - belajar python
+  - belajar SQL
